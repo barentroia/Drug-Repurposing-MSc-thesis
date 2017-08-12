@@ -1,0 +1,78 @@
+0297417-0002B	5109870	5114445	alexidine	astemizole	benzethonium_chloride	gossypol	loperamide	metergoline	methylbenzethonium_chloride	niclosamide	pararosaniline	pyrvinium	quinostatin	rottlerin	terfenadine	trifluoperazine	1,4-chrysenequinone	HC_toxin	MG-262	anisomycin	celastrol	digitoxigenin	digoxin	lomustine	menadione	ouabain	parthenolide	phenoxybenzamine	piperlongumine	puromycin	thiostrepton	withaferin_A	MG-132	cytochalasin_B	15-delta_prostaglandin_J2	5155877	5182598	F0447-0125	STOCK1N-35215	oxyphenbutazone	thapsigargin	5140203	5224221	5253409	BW-B70C	calmidazolium	ciclopirox	clotrimazole	ionomycin	tyrphostin_AG-1478	valinomycin	ivermectin	syrosingopine	perphenazine	semustine	securinine	5707885	alvespimycin	cephaeline	cicloheximide	cloperastine	dequalinium_chloride	disulfiram	emetine	fendiline	geldanamycin	mefloquine	mometasone	monorden	prenylamine	suloctidil	chlorprothixene	helveticoside	prochlorperazine	digoxigenin	lanatoside_C	proscillaridin	pimozide	benzamil	fluspirilene	homochlorcyclizine	miconazole	azacyclonol	lycorine	strophanthidin	bisacodyl	bepridil	chlorcyclizine	ciclosporin	econazole	fluphenazine	hexetidine	metitepine	norcyclobenzaprine	nortriptyline	perhexiline	protriptyline	rescinnamine	spiperone	tetrandrine	tonzonium_bromide	clofilium_tosylate
+0175029-0000	GW-8510	H-7	alsterpaullone	apigenin	camptothecin	chrysin	daunorubicin	doxorubicin	harmine	irinotecan	luteolin	fisetin	8-azaguanine	thioguanosine	tyrphostin_AG-825	azacitidine	ellipticine	mitoxantrone	staurosporine
+0175029-0000	GW-8510	H-7	alsterpaullone	apigenin	camptothecin	chrysin	daunorubicin	doxorubicin	harmine	irinotecan	luteolin	sanguinarine	fisetin	8-azaguanine	doxazosin	sulconazole	thioguanosine	tyrphostin_AG-825	azacitidine	ellipticine	mitoxantrone	staurosporine	ginkgolide_A	verteporfin	gliclazide	medrysone
+5140203	5151277	5186324	5279552	5286656	topiramate	5149715	5152487	decitabine	5162773	5213008	5186223	ikarugamycin
+(-)-catechin	12,13-EODE	DL-PPMP	demecolcine	phenanthridinone	cytochalasin_B
+0198306-0000	PHA-00665752	AG-012559	AH-23848	carmustine	STOCK1N-28457	nilutamide	SC-560
+scriptaid	HC_toxin	MS-275	CP-690334-01	rifabutin	vorinostat	trichostatin_A
+demecolcine	mebendazole	methylergometrine	colchicine	nocodazole	nifuroxazide
+bromocriptine	co-dergocrine_mesilate	etacrynic_acid	methylergometrine	zardaverine	colchicine	mepacrine	hycanthone	meptazinol	naftopidil
+ajmaline	clindamycin	dirithromycin	chlortetracycline	chlorzoxazone	clopamide	glibenclamide	lobeline
+quinostatin	1,5-isoquinolinediol	wortmannin	bromocriptine	co-dergocrine_mesilate	methylergometrine	zardaverine	latamoxef	meptazinol	naftopidil	sirolimus
+etoposide	resveratrol	trifluridine	monobenzone	promethazine	pipemidic_acid
+salsolinol	betahistine	omeprazole	pyrazinamide	cetirizine	lorglumide
+16,16-dimethylprostaglandin_E2	5194442
+2-deoxy-D-glucose	fasudil
+amprolium	corynanthine	doxylamine	oxetacaine	phenazone	salsolidin	seneciphylline
+cantharidin	dioxybenzone	metyrapone	tyloxapol
+phthalylsulfathiazole	fenoprofen	meclofenoxate	sulfamethoxypyridazine	flunixin	latamoxef	levonorgestrel
+quinostatin	1,5-isoquinolinediol	gefitinib	wortmannin	bromocriptine	co-dergocrine_mesilate	etacrynic_acid	methylergometrine	clomipramine	zardaverine	mepacrine	hycanthone	latamoxef	meptazinol	naftopidil	sirolimus
+levomepromazine	maprotiline	monensin
+4,5-dianilinophthalimide	dexverapamil	verteporfin	exemestane
+5230742	Y-27632
+meticrane	calcium_pantothenate	roxithromycin	imipenem	morantel	scopolamine
+U0125	docosahexaenoic_acid_ethyl_ester	splitomicin
+repaglinide	estriol	milrinone	oxprenolol
+acepromazine	epivincamine	dacarbazine	hydrocotarnine	riboflavin
+demecolcine	mebendazole	methylergometrine	colchicine	nocodazole	fenbendazole	parbendazole	nifuroxazide
+5248896	5253409	5279552	5211181	blebbistatin
+0198306-0000	PHA-00665752	AG-012559	AH-23848	carmustine	STOCK1N-28457	CAY-10397	MS-275	PHA-00846566E	nilutamide	SC-560
+MK-886	arachidonic_acid	clofibrate	oligomycin
+alvespimycin	geldanamycin	monorden	tanespimycin
+chlorprothixene	prochlorperazine	chlorcyclizine	desipramine	clomifene	profenamine
+eucatropine	famprofazone	metamizole_sodium	promazine
+4,5-dianilinophthalimide	dexverapamil	fisetin	verteporfin	exemestane	methotrexate	mycophenolic_acid
+reserpine	galantamine	trichlormethiazide	trimethylcolchicinic_acid	mestranol
+3-nitropropionic_acid	PF-01378883-00	valdecoxib
+5666823	LM-1685	SC-58125	rofecoxib
+BCB000038	CP-944629	IC-86621	suramin_sodium	meteneprost
+DL-thiorphan	flufenamic_acid	papaverine	N-phenylanthranilic_acid
+HNMPA-(AM)3	butein	dimethyloxalylglycine
+PF-00539758-00	erastin
+Prestwick-1084	piperidolate
+W-13	oxamic_acid	tioguanine	benserazide
+abamectin	delsoline
+aciclovir	guanabenz	lisuride
+ambroxol	moroxydine	trihexyphenidyl
+benzthiazide	liothyronine
+carbachol	ethaverine	rolipram
+exisulind	sulindac_sulfide	sulindac
+fosfosal	indoprofen	reserpine	galantamine	trichlormethiazide	trimethylcolchicinic_acid	mestranol
+ginkgolide_A	oxamniquine	pronetalol
+medrysone	fenoprofen	meclofenoxate	sulfamethoxypyridazine	flunixin	hydralazine	tropicamide	levonorgestrel
+3-aminobenzamide	bucladesine
+6-azathymine	fusaric_acid
+trifluoperazine	5666823	LM-1685	CP-645525-01	SC-58125	rofecoxib	amitriptyline	chlorpromazine	clozapine	cyclobenzaprine	promazine	fluvoxamine	imipramine	phenazopyridine	podophyllotoxin	raloxifene	thioproperazine	thioridazine	ursolic_acid
+Prestwick-1083	iopanoic_acid
+Prestwick-559	bromperidol
+Prestwick-691	yohimbic_acid
+TTNPB	tomelukast
+quinostatin	1,5-isoquinolinediol	gefitinib	wortmannin	albendazole	pimozide	bromocriptine	co-dergocrine_mesilate	methylergometrine	zardaverine	latamoxef	meptazinol	naftopidil	sirolimus
+amiodarone	meclozine
+benzathine_benzylpenicillin	fluticasone
+sulconazole	salsolinol	Prestwick-1084	piperidolate	benzthiazide	liothyronine	betahistine	omeprazole	pyrazinamide	capsaicin	cetirizine	lorglumide	phthalylsulfathiazole	eucatropine	famprofazone	metamizole_sodium	promazine	latamoxef	monobenzone	promethazine	pipemidic_acid	trazodone
+cefalexin	pentoxyverine
+ciclosporin	naringenin	pizotifen
+copper_sulfate	tetraethylenepentamine
+corbadrine	isoetarine
+cotinine	naloxone
+dipyridamole	sulfafurazole
+estropipate	kinetin
+etofylline	ornidazole
+furazolidone	tolmetin
+hydrocortisone	urapidil
+hyoscyamine	oxolinic_acid
+imatinib	pirinixic_acid
+ketanserin	practolol
+ofloxacin	tiapride
+propylthiouracil	tobramycin

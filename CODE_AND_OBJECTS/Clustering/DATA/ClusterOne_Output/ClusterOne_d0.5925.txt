@@ -1,0 +1,6 @@
+1,4-chrysenequinone	5224221	MG-132	MG-262	disulfiram	puromycin	withaferin_A	etacrynic_acid	parthenolide	alvespimycin	F0447-0125	geldanamycin	STOCK1N-35215	tanespimycin	oxyphenbutazone	lomustine	15-delta_prostaglandin_J2	5155877	monorden	securinine	semustine
+MG-262	anisomycin	digitoxigenin	digoxigenin	ouabain	puromycin	withaferin_A	parthenolide	digoxin	F0447-0125	helveticoside	lanatoside_C	proscillaridin	strophanthidin	5155877	STOCK1N-35696	STOCK1N-35874	securinine	lycorine
+valproic_acid	vorinostat	rifabutin	scriptaid	trichostatin_A
+emetine	wortmannin	cephaeline	(-)-isoprenaline	benzethonium_chloride
+arachidonic_acid	MK-886	clofibrate
+3-nitropropionic_acid	PF-01378883-00	valdecoxib

@@ -1,0 +1,3 @@
+valproic_acid	vorinostat	rifabutin	scriptaid	trichostatin_A
+MG-262	anisomycin	digitoxigenin	digoxigenin	ouabain	parthenolide	digoxin	F0447-0125	helveticoside	lanatoside_C	proscillaridin	lomustine	5155877	STOCK1N-35696	STOCK1N-35874	securinine
+MG-262	puromycin	alvespimycin	geldanamycin	tanespimycin	15-delta_prostaglandin_J2	monorden

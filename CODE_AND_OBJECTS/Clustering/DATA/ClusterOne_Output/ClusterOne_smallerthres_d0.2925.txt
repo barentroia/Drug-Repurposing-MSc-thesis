@@ -1,0 +1,114 @@
+0297417-0002B	alexidine	astemizole	benzethonium_chloride	gossypol	loperamide	metergoline	methylbenzethonium_chloride	niclosamide	pararosaniline	pyrvinium	rottlerin	terfenadine	trifluoperazine	anisomycin	celastrol	thapsigargin	5224221	BW-B70C	calmidazolium	perphenazine	5707885	cloperastine	fendiline	mefloquine	mometasone	prenylamine	suloctidil	chlorprothixene	fluspirilene	homochlorcyclizine	bepridil	metitepine	norcyclobenzaprine	nortriptyline	protriptyline	tetrandrine	levomepromazine	maprotiline	metixene	piperacetazine
+1,4-chrysenequinone	MG-262	anisomycin	celastrol	digoxin	lomustine	menadione	ouabain	parthenolide	phenoxybenzamine	piperlongumine	puromycin	thiostrepton	withaferin_A	MG-132	15-delta_prostaglandin_J2	5155877	5182598	F0447-0125	STOCK1N-35215	oxyphenbutazone	5194442	5224221	5253409	semustine	securinine	alvespimycin	disulfiram	geldanamycin	monorden	C-75	STOCK1N-35696	cyproheptadine	etacrynic_acid
+irinotecan	5109870	ciclopirox	deferoxamine	etoposide	resveratrol	trifluridine
+0175029-0000	GW-8510	H-7	alsterpaullone	apigenin	camptothecin	chrysin	daunorubicin	doxorubicin	harmine	irinotecan	luteolin	fisetin	8-azaguanine	thioguanosine	tyrphostin_AG-825	azacitidine	ellipticine	mitoxantrone	staurosporine
+scriptaid	HC_toxin	MS-275	CP-690334-01	rifabutin	vorinostat	trichostatin_A
+sanguinarine	ipratropium_bromide	solanine	talampicillin
+(-)-catechin	12,13-EODE	DL-PPMP	demecolcine	phenanthridinone	cytochalasin_B
+sulconazole	Prestwick-1084	piperidolate	capsaicin	trazodone
+niclosamide	pararosaniline	terfenadine	1,4-chrysenequinone	MG-262	anisomycin	celastrol	digitoxigenin	digoxin	lomustine	menadione	ouabain	parthenolide	phenoxybenzamine	piperlongumine	puromycin	thiostrepton	withaferin_A	MG-132	15-delta_prostaglandin_J2	5155877	5182598	F0447-0125	STOCK1N-35215	thapsigargin	5224221	calmidazolium	semustine	securinine	alvespimycin	cephaeline	cicloheximide	disulfiram	emetine	fendiline	geldanamycin	monorden	suloctidil	helveticoside	digoxigenin	lanatoside_C	proscillaridin	lycorine	strophanthidin	bisacodyl
+5140203	5151277	5186324	5279552	5286656	topiramate	5149715	5152487	decitabine	5162773	5213008	5186223	ikarugamycin
+ciclosporin	naringenin	pizotifen
+0297417-0002B	5109870	5114445	alexidine	astemizole	benzethonium_chloride	gossypol	loperamide	metergoline	methylbenzethonium_chloride	niclosamide	pararosaniline	pyrvinium	quinostatin	rottlerin	terfenadine	trifluoperazine	anisomycin	celastrol	phenoxybenzamine	puromycin	withaferin_A	MG-132	cytochalasin_B	thapsigargin	5224221	BW-B70C	calmidazolium	clotrimazole	ionomycin	tyrphostin_AG-1478	valinomycin	ivermectin	perphenazine	5707885	cloperastine	dequalinium_chloride	disulfiram	emetine	fendiline	mefloquine	mometasone	prenylamine	suloctidil	chlorprothixene	benzamil	fluspirilene	miconazole	azacyclonol	bepridil	chlorcyclizine	econazole	hexetidine	spiperone	tetrandrine	tonzonium_bromide	clofilium_tosylate
+doxazosin	Prestwick-860	carbachol	ethaverine
+0198306-0000	PHA-00665752	STOCK1N-28457	nilutamide
+1,5-isoquinolinediol	gefitinib	clotrimazole	albendazole	pimozide
+demecolcine	mebendazole	colchicine	nocodazole	nifuroxazide
+ajmaline	clindamycin	dirithromycin	chlortetracycline	chlorzoxazone	clopamide	glibenclamide	lobeline
+0297417-0002B	5109870	5114445	alexidine	astemizole	benzethonium_chloride	gossypol	loperamide	metergoline	methylbenzethonium_chloride	niclosamide	pararosaniline	pyrvinium	rottlerin	terfenadine	trifluoperazine	anisomycin	celastrol	MG-132	thapsigargin	5224221	BW-B70C	calmidazolium	tyrphostin_AG-1478	valinomycin	ivermectin	perphenazine	5707885	cloperastine	dequalinium_chloride	disulfiram	fendiline	mefloquine	mometasone	prenylamine	suloctidil	chlorprothixene	fluspirilene	homochlorcyclizine	bepridil	hexetidine	isoconazole	norcyclobenzaprine	nortriptyline	perhexiline	spiperone	tetrandrine
+betahistine	omeprazole	cetirizine	lorglumide
+luteolin	sanguinarine	doxazosin	sulconazole	Prestwick-860	phthalylsulfathiazole	gliclazide	medrysone	thiocolchicoside
+2-deoxy-D-glucose	fasudil
+chlorprothixene	prochlorperazine	clomifene	profenamine
+amprolium	doxylamine	oxetacaine	phenazone	salsolidin
+cantharidin	dioxybenzone	metyrapone	tyloxapol
+1,5-isoquinolinediol	gefitinib	wortmannin	clotrimazole	pimozide	clomipramine
+4,5-dianilinophthalimide	dexverapamil	verteporfin	exemestane
+5230742	Y-27632
+meticrane	roxithromycin	imipenem	morantel
+U0125	docosahexaenoic_acid_ethyl_ester	splitomicin
+ginkgolide_A	oxamniquine	pronetalol
+repaglinide	estriol	milrinone	oxprenolol
+loperamide	perphenazine	fluphenazine	levomepromazine	maprotiline	metixene	zuclopenthixol
+gossypol	antimycin_A	rescinnamine	ticlopidine
+bromocriptine	co-dergocrine_mesilate	methylergometrine	zardaverine
+acepromazine	epivincamine	dacarbazine	hydrocotarnine	riboflavin
+mebendazole	colchicine	nocodazole	fenbendazole	parbendazole
+levomepromazine	maprotiline	monensin
+5248896	5253409	5211181	blebbistatin
+PHA-00665752	AG-012559	AH-23848	carmustine	STOCK1N-28457
+0198306-0000	PHA-00665752	CAY-10397	MS-275	PHA-00846566E
+MK-886	arachidonic_acid	clofibrate	oligomycin
+salsolinol	omeprazole	cetirizine	lorglumide
+alvespimycin	geldanamycin	monorden	tanespimycin
+amprolium	corynanthine	oxetacaine	salsolidin	seneciphylline
+chlorprothixene	desipramine	clomifene	profenamine
+0297417-0002B	alexidine	astemizole	benzethonium_chloride	gossypol	loperamide	metergoline	methylbenzethonium_chloride	niclosamide	pararosaniline	pyrvinium	rottlerin	terfenadine	trifluoperazine	anisomycin	celastrol	puromycin	MG-132	thapsigargin	5224221	BW-B70C	calmidazolium	valinomycin	perphenazine	5707885	cloperastine	disulfiram	fendiline	mefloquine	mometasone	prenylamine	suloctidil	chlorprothixene	fluspirilene	homochlorcyclizine	bepridil	flupentixol	fluphenazine	isoconazole	metitepine	nortriptyline	protriptyline	rescinnamine	tetrandrine
+loperamide	perphenazine	amoxapine	trimipramine	zuclopenthixol
+bromocriptine	etacrynic_acid	mepacrine	hycanthone
+eucatropine	famprofazone	metamizole_sodium	promazine
+fenoprofen	meclofenoxate	sulfamethoxypyridazine	flunixin
+4,5-dianilinophthalimide	fisetin	methotrexate	mycophenolic_acid
+reserpine	galantamine	trichlormethiazide	trimethylcolchicinic_acid	mestranol
+trifluridine	monobenzone	promethazine	pipemidic_acid
+quinostatin	1,5-isoquinolinediol	gefitinib	wortmannin	sirolimus
+3-nitropropionic_acid	PF-01378883-00	valdecoxib
+5109870	5255229	deferoxamine	quercetin
+5666823	LM-1685	SC-58125	rofecoxib
+BCB000038	CP-944629	IC-86621	suramin_sodium
+DL-thiorphan	flufenamic_acid	papaverine	N-phenylanthranilic_acid
+HNMPA-(AM)3	butein	dimethyloxalylglycine
+PF-00539758-00	erastin
+W-13	oxamic_acid	tioguanine	benserazide
+abamectin	delsoline
+aciclovir	guanabenz	lisuride
+ambroxol	moroxydine	trihexyphenidyl
+apigenin	sanguinarine	etamsylate	ipratropium_bromide	talampicillin
+apigenin	sanguinarine	rimexolone	ipratropium_bromide	talampicillin
+benzthiazide	liothyronine
+exisulind	sulindac_sulfide	sulindac
+fosfosal	indoprofen	reserpine	trichlormethiazide	mestranol
+medrysone	sulfamethoxypyridazine	hydralazine	tropicamide
+phthalylsulfathiazole	fenoprofen	sulfamethoxypyridazine	latamoxef
+16,16-dimethylprostaglandin_E2	5194442
+3-aminobenzamide	bucladesine
+5248896	5213008	betamethasone	blebbistatin
+6-azathymine	fusaric_acid
+trifluoperazine	CP-645525-01	raloxifene	thioridazine
+Prestwick-1083	iopanoic_acid
+Prestwick-559	bromperidol
+Prestwick-691	yohimbic_acid
+PHA-00665752	AG-012559	AH-23848	STOCK1N-28457	SC-560
+TTNPB	tomelukast
+amiodarone	meclozine
+trifluoperazine	amitriptyline	raloxifene	thioridazine
+apigenin	cefalotin	skimmianine	sulfametoxydiazine
+benzathine_benzylpenicillin	fluticasone
+betahistine	omeprazole	pyrazinamide	cetirizine
+meticrane	calcium_pantothenate	roxithromycin	scopolamine
+cefalexin	pentoxyverine
+trifluoperazine	clozapine	raloxifene	thioridazine
+copper_sulfate	tetraethylenepentamine
+corbadrine	isoetarine
+cotinine	naloxone
+trifluoperazine	cyclobenzaprine	raloxifene	thioridazine
+dipyridamole	sulfafurazole
+estropipate	kinetin
+carbachol	ethaverine	rolipram
+etofylline	ornidazole
+trifluoperazine	fluvoxamine	raloxifene	thioridazine
+furazolidone	tolmetin
+hydrocortisone	urapidil
+hyoscyamine	oxolinic_acid
+imatinib	pirinixic_acid
+trifluoperazine	imipramine	raloxifene	thioridazine
+ketanserin	practolol
+fenoprofen	meclofenoxate	flunixin	levonorgestrel
+co-dergocrine_mesilate	zardaverine	meptazinol	naftopidil
+BCB000038	CP-944629	suramin_sodium	meteneprost
+ofloxacin	tiapride
+trifluoperazine	phenazopyridine	raloxifene	thioridazine
+trifluoperazine	podophyllotoxin	raloxifene	thioridazine
+propylthiouracil	tobramycin
+trifluoperazine	raloxifene	thioproperazine	thioridazine
+trifluoperazine	raloxifene	thioridazine	ursolic_acid

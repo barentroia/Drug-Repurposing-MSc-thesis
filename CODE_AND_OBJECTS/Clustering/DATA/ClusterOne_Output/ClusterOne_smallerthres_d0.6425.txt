@@ -1,0 +1,18 @@
+astemizole	loperamide	metergoline	terfenadine	trifluoperazine	perphenazine	protriptyline
+thapsigargin	ionomycin	tyrphostin_AG-1478	ciclosporin
+MG-262	celastrol	puromycin	withaferin_A	MG-132	5224221	alvespimycin	disulfiram	geldanamycin	monorden
+anisomycin	digitoxigenin	digoxin	ouabain	cephaeline	cicloheximide	emetine	helveticoside	digoxigenin	lanatoside_C	proscillaridin	lycorine
+0175029-0000	apigenin	chrysin	harmine	luteolin
+scriptaid	HC_toxin	MS-275	CP-690334-01	rifabutin	vorinostat
+anisomycin	digitoxigenin	digoxin	menadione	ouabain	cicloheximide	emetine	helveticoside	digoxigenin	lanatoside_C	proscillaridin	strophanthidin	bisacodyl
+GW-8510	H-7	alsterpaullone	camptothecin	daunorubicin	doxorubicin	tyrphostin_AG-825	azacitidine	ellipticine	mitoxantrone
+MG-262	celastrol	lomustine	parthenolide	withaferin_A	MG-132	5182598	F0447-0125	5224221	semustine	securinine
+5140203	5151277	5186324	topiramate	5162773	5213008
+GW-8510	H-7	alsterpaullone	camptothecin	doxorubicin	tyrphostin_AG-825	mitoxantrone	staurosporine
+2-deoxy-D-glucose	fasudil
+U0125	docosahexaenoic_acid_ethyl_ester	splitomicin
+clindamycin	dirithromycin	chlorzoxazone	glibenclamide	lobeline
+scriptaid	HC_toxin	rifabutin	vorinostat	trichostatin_A
+alvespimycin	geldanamycin	monorden	tanespimycin
+HNMPA-(AM)3	butein	dimethyloxalylglycine
+TTNPB	tomelukast

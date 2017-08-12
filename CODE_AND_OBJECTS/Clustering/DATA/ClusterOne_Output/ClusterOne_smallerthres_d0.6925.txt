@@ -1,0 +1,5 @@
+puromycin	alvespimycin	geldanamycin	monorden
+anisomycin	cicloheximide	emetine	lycorine
+scriptaid	HC_toxin	CP-690334-01	rifabutin	vorinostat
+anisomycin	digitoxigenin	digoxin	menadione	ouabain	helveticoside	digoxigenin	lanatoside_C	proscillaridin	strophanthidin	bisacodyl
+GW-8510	H-7	alsterpaullone	camptothecin	daunorubicin	doxorubicin	mitoxantrone

@@ -1,0 +1,33 @@
+5255229	5230742	Y-27632	depudecin	5211181	5279552
+PNU-0230031	acacetin	PHA-00851261E	harmol
+MG-262	withaferin_A	parthenolide	F0447-0125	STOCK1N-35215	5194442	lomustine	15-delta_prostaglandin_J2	5155877	5182598	STOCK1N-35696	STOCK1N-35874	securinine	semustine	carmustine
+AG-012559	AH-23848	orlistat	carmustine
+1,4-chrysenequinone	5224221	MG-132	MG-262	disulfiram	niclosamide	puromycin	withaferin_A	etacrynic_acid	parthenolide	thiostrepton	alvespimycin	nordihydroguaiaretic_acid	F0447-0125	geldanamycin	STOCK1N-35215	tanespimycin	oxyphenbutazone	thapsigargin	lomustine	15-delta_prostaglandin_J2	5155877	monorden	securinine	semustine
+hexetidine	podophyllotoxin	perphenazine	tyrphostin_AG-1478	methylbenzethonium_chloride	trifluoperazine	lasalocid	monensin	levomepromazine	lovastatin
+5224221	MG-132	alexidine	astemizole	azacyclonol	calmidazolium	clotrimazole	fendiline	ionomycin	niclosamide	pararosaniline	phenoxybenzamine	pimozide	pyrvinium	rottlerin	suloctidil	terfenadine	cloperastine	fluspirilene	BW-B70C	chlorprothixene	cytochalasin_B	ivermectin	mefloquine	perphenazine	tyrphostin_AG-1478	0297417-0002B	benzethonium_chloride	loperamide	methylbenzethonium_chloride	miconazole	5707885	benzamil	chlorcyclizine	gossypol	metergoline	prenylamine	trifluoperazine	erastin	maprotiline	tetrandrine	thapsigargin	thioridazine	valinomycin	rotenone
+dicoumarol	ethoxyquin	benfotiamine	spiramycin	flecainide	piperacillin	sulfadimidine
+velnacrine	methoxsalen	dicloxacillin
+1,4-chrysenequinone	5224221	MG-132	MG-262	anisomycin	calmidazolium	digitoxigenin	digoxigenin	disulfiram	niclosamide	ouabain	puromycin	withaferin_A	parthenolide	digoxin	cicloheximide	F0447-0125	geldanamycin	helveticoside	lanatoside_C	proscillaridin	gossypol	strophanthidin	thapsigargin	lomustine	5155877	STOCK1N-35696	STOCK1N-35874	securinine	lycorine
+phenazone	ambroxol	moroxydine	isoniazid	mafenide
+simvastatin	theophylline	cefsulodin	fosfosal	reserpine	trichlormethiazide	mestranol	indoprofen
+cotinine	naloxone	zimeldine	hesperetin	oleandomycin	glipizide
+5255229	5230742	Y-27632	5182598	5253409	bucladesine	5279552
+12,13-EODE	DL-PPMP	minocycline	phenanthridinone
+valproic_acid	vorinostat	rifabutin	scriptaid	idoxuridine	trichostatin_A
+SR-95639A	carisoprodol	meclocycline	Chicago_Sky_Blue_6B
+3-acetamidocoumarin	benzathine_benzylpenicillin	fluticasone	harpagoside	memantine	methyldopate
+albendazole	astemizole	emetine	methylergometrine	wortmannin	cephaeline	cicloheximide	(-)-isoprenaline	0297417-0002B	benzethonium_chloride	methylbenzethonium_chloride
+cefapirin	isopropamide_iodide	carbinoxamine	ribostamycin
+fenbendazole	parbendazole	vinblastine	rotenone
+arachidonic_acid	MK-886	clofibrate
+acacetin	0317956-0000	PHA-00851261E	proglumide
+PNU-0230031	PNU-0251126	PNU-0293363	trifluridine
+clemizole	kawain	mephenesin	metaraminol	pentolonium	riluzole	dilazep	sulfamethoxazole	trimethoprim	tiapride	nalidixic_acid
+dicoumarol	bendroflumethiazide	spiramycin	flecainide	piperacillin
+naringenin	cyanocobalamin	N-acetylmuramic_acid	bacampicillin
+CP-320650-01	CP-690334-01	spiradoline	PHA-00745360	citalopram
+ursolic_acid	diazoxide	triamcinolone	cefotaxime	nalbuphine
+chlortetracycline	clopamide	dirithromycin	danazol	ajmaline	ampyrone
+3-nitropropionic_acid	PF-01378883-00	valdecoxib
+guanadrel	sulfadimethoxine	cefamandole	merbromin	calcium_folinate	atractyloside
+sulindac	sulindac_sulfide	tacrolimus	phenyl_biguanide

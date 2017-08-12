@@ -1,0 +1,2 @@
+scriptaid	HC_toxin	rifabutin	vorinostat
+anisomycin	digitoxigenin	digoxin	ouabain	helveticoside	digoxigenin	lanatoside_C	proscillaridin	strophanthidin

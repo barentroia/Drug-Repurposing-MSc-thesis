@@ -1,0 +1,2 @@
+scriptaid	HC_toxin	MS-275	rifabutin	vorinostat
+digitoxigenin	digoxin	ouabain	helveticoside	digoxigenin	lanatoside_C	proscillaridin	strophanthidin	bisacodyl

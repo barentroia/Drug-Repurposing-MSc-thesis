@@ -1,0 +1,10 @@
+puromycin	withaferin_A	alvespimycin	geldanamycin	monorden
+anisomycin	cephaeline	cicloheximide	emetine	lycorine
+scriptaid	HC_toxin	MS-275	CP-690334-01	rifabutin	vorinostat
+anisomycin	digitoxigenin	digoxin	menadione	ouabain	cicloheximide	helveticoside	digoxigenin	lanatoside_C	proscillaridin	strophanthidin	bisacodyl
+GW-8510	H-7	alsterpaullone	camptothecin	daunorubicin	doxorubicin	tyrphostin_AG-825	ellipticine	mitoxantrone
+GW-8510	H-7	alsterpaullone	camptothecin	doxorubicin	tyrphostin_AG-825	staurosporine
+U0125	docosahexaenoic_acid_ethyl_ester	splitomicin
+scriptaid	HC_toxin	rifabutin	vorinostat	trichostatin_A
+alvespimycin	geldanamycin	monorden	tanespimycin
+TTNPB	tomelukast

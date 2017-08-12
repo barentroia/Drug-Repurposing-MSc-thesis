@@ -1,0 +1,10 @@
+MG-262	withaferin_A	parthenolide	F0447-0125	5194442	lomustine	15-delta_prostaglandin_J2	5155877	5182598	STOCK1N-35696	STOCK1N-35874	securinine	semustine	carmustine
+AG-012559	AH-23848	orlistat	carmustine
+1,4-chrysenequinone	5224221	MG-132	MG-262	disulfiram	puromycin	withaferin_A	parthenolide	alvespimycin	nordihydroguaiaretic_acid	F0447-0125	geldanamycin	STOCK1N-35215	tanespimycin	oxyphenbutazone	lomustine	15-delta_prostaglandin_J2	5155877	monorden	securinine	semustine
+12,13-EODE	DL-PPMP	minocycline	phenanthridinone
+MG-132	MG-262	anisomycin	calmidazolium	digitoxigenin	digoxigenin	disulfiram	niclosamide	ouabain	puromycin	withaferin_A	parthenolide	digoxin	alvespimycin	F0447-0125	helveticoside	lanatoside_C	proscillaridin	gossypol	strophanthidin	lomustine	5155877	STOCK1N-35696	STOCK1N-35874	securinine	lycorine
+theophylline	fosfosal	reserpine	trichlormethiazide	mestranol	indoprofen
+valproic_acid	vorinostat	rifabutin	scriptaid	idoxuridine	trichostatin_A
+albendazole	emetine	wortmannin	cephaeline	(-)-isoprenaline
+arachidonic_acid	MK-886	clofibrate
+3-nitropropionic_acid	PF-01378883-00	valdecoxib
