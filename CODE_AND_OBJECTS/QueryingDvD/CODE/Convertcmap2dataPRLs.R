@@ -54,4 +54,3 @@ exemplars=minavg #These were set as the exemplars
 
 write.csv(exemplars,"exemplars.csv",row.names = FALSE)
 
-##Transform Drug_PRLs to drugRL, but performing the average correctly

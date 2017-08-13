@@ -1,5 +1,5 @@
 #### Investigate the proximity of the clusters these drugs yielded by DvD belong to ####
-
+setwd("../CODE_AND_OBJECTS/QueryingDvD/CODE/")
 library(DrugVsDisease)
 
 #DvD results - drugs with significant matches to the profile
@@ -40,7 +40,7 @@ compareDistancesHypot2=function(listclassify,drugdistances,exemplars_drugdist,ex
   test=ks.test(jitter(distances),ecdf(nulldist),alternative="greater") # note that the null hypothesis refers to the cumulative distributions so smaller distances corresponds to greater cumulative distribution
   
   #plotting the distances between exemplar drugs and the exemplar drugs that represent the drugs yielded by DvD
-  png("../../DissertationPlots/ClusterProximity.png",width=483,height=412)
+  png("../../../DissertationPlots/ClusterProximity.png",width=483,height=412)
   plot(density(nulldist),xlab="Distances between clusters",main="",lwd=3,ylim=c(0,3),font.lab=2,cex.lab=1.2)
   lines(density(distances),lwd=3,col="darkblue")
   text(x=0.4,y=1.5,paste("pval = ",round(test$p.value,3)))
